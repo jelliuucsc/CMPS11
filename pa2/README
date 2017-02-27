@@ -1,0 +1,8 @@
+Files submitted:
+List.h		  //header file for List ADT
+List.c            //ADT that uses nodes to create a List
+Lex.c             //A test client that uses an insertion sort algorithm to test the List module.
+ListClient.c      //A test client for the List ADT. Use this to test your list module. The correct output is given in the comments.
+Makefile
+README
+

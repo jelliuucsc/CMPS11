@@ -1,0 +1,7 @@
+Files submitted:
+List.java            //ADT that uses nodes to create a List
+Lex.java             //A test client that uses an insertion sort algorithm to test the List module.
+ListClient.java	     //A test client for the List ADT. Use this to test your list module. The correct output is given in the comments.
+Makefile
+README
+
